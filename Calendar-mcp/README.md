@@ -1,8 +1,7 @@
 # Google Calendar MCP Server [`Calendar-mcp`](./Calendar-mcp)
+This MCP server integrates with Google Calendar to allow you to list, add, and delete events directly from Claude.
 
 https://github.com/user-attachments/assets/fdcdcdd7-9ffe-4823-96be-0fd86696bf06
-
-This MCP server integrates with Google Calendar to allow you to list, add, and delete events directly from Claude.
 
 ## Features
 
