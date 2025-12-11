@@ -1,6 +1,7 @@
 # 📈 Stock Analyst MCP Server
 
-> **Note:** This tool is designed exclusively for **Stock Market Data**. It connects your AI assistant to real-time financial information, allowing it to "see" current prices and company details that are otherwise outside its training data.
+> [!WARNING]
+> **Use Case Note:** This tool is designed exclusively for **Stock Market Data**. It connects your AI assistant to real-time financial information, allowing it to "see" current prices and company details that are otherwise outside its training data.
 
 A Model Context Protocol (MCP) server that provides real-time stock prices, historical data, and company information using `yfinance`.
 
